@@ -102,7 +102,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America\Argentina\Cordoba'
+TIME_ZONE = '-3:00'
 
 USE_I18N = True
 
